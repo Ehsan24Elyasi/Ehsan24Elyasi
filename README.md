@@ -1,7 +1,7 @@
 # Hi 👋
 
 # 💫 About Me:
-"Hi there! I'm a computer student at university and a junior front-end developer. <br>I'm passionate about creating beautiful and functional websites that provide a great user experience. <br>I have experience with HTML, CSS, JavaScript, and Vue, and I'm always eager to learn new technologies and improve my skills. <br>In my free time, I enjoy working on personal projects , exploring new technologies or taking online courses.<br> I'm excited to collaborate with other developers and create amazing things together. <br>Let's connect and build something great!"
+Hi there! I'm a computer student at university and a junior front-end developer. <br>I'm passionate about creating beautiful and functional websites that provide a great user experience. <br>I have experience with HTML, CSS, JavaScript, and Vue, and I'm always eager to learn new technologies and improve my skills. <br>In my free time, I enjoy working on personal projects , exploring new technologies or taking online courses.<br> I'm excited to collaborate with other developers and create amazing things together. <br>Let's connect and build something great!
 
 
 ## 🌐 Socials:
