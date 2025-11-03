@@ -1,19 +1,47 @@
 # Hi 👋
 
-# 💫 About Me:
-Hi there! I'm a computer student at university and a junior front-end developer. <br>I'm passionate about creating beautiful and functional websites that provide a great user experience. <br>I have experience with HTML, CSS, JavaScript, and Vue, and I'm always eager to learn new technologies and improve my skills. <br>In my free time, I enjoy working on personal projects , exploring new technologies or taking online courses.<br> I'm excited to collaborate with other developers and create amazing things together. <br>Let's connect and build something great!
+## 💫 About Me
+Hey! I'm **Ehsan Elyasi**, a **Master’s student in Artificial Intelligence** and a **Python developer** passionate about intelligent systems, backend development, and applied AI.  
 
+My main interests lie at the intersection of **machine learning, software engineering, and intelligent automation**.  
+I enjoy designing **clean, efficient, and scalable systems**, whether it’s a REST API, a data-driven service, or a research experiment.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-elyasi/) 
+Previously, I worked on several web projects (including *Match Show*, an intelligent roommate matching platform), but now my focus is fully on **Python, FastAPI, data analysis, and AI-based development**.  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ehsan24Elyasi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ehsan24Elyasi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsan24Elyasi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### 🧠 Currently focused on:
+- 🧩 Building backend systems with **FastAPI** & **SQLAlchemy**  
+- 🤖 Exploring **machine learning** and **AI-driven decision systems**  
+- 🧠 Researching practical applications of **Artificial Intelligence**  
+- 📊 Working with **data**, from preprocessing to model deployment  
+
+I’m always open to **collaborating on research or AI-focused software projects**.  
+Let’s connect and bring smart ideas to life! 🚀  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ehsan24Elyasi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-elyasi/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ehsan24Elyasi)
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCA121?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Ehsan24Elyasi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ehsan24Elyasi&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsan24Elyasi&theme=dark&hide_border=true&layout=compact)
+
+---
